@@ -62,6 +62,11 @@ This project is a foundation for exploring:
 - Neuro-Symbolic approaches
 - Retrieval-Augmented Generation (RAG) with Knowledge Graphs
 
+## Notebook Representation
+The main implementation is available in:
+
+LLM_Based_Biomedical_Knowledge_Graph_Enrichment.ipynb
+
 ## Author
 
 **Mamady Lamine Condé**
